@@ -18,7 +18,7 @@
  ### Estagiário de programação, cursando o ensino médio com curso técnico em informática (4/4).
 
 - 🔭 Atualmente estou trabalhando no meu TCC (Portal do Estudante);
-- 🌱 Atualmente estou aprendendo Javascript, React, CSS;
+- 🌱 Atualmente estou aprendendo Javascript;
 - 📫 Como chegar até mim: luiscadari01@gmail.com;
 
 <!--
