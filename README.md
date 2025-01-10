@@ -17,10 +17,10 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscadari&layout=compact)](https://github.com/luiscadari/github-readme-stats)
  
- ### Programador Full-Stack Pleno e Técnico em Informática pelo IFPR Campus Jacarezinho, cursando Bacharelado de Engenharia de Software na Unicesumar (1/4).
+ ### Programador Full-Stack Pleno e Técnico em Informática pelo IFPR Campus Jacarezinho, cursando Bacharelado de Engenharia de Software na Unicesumar (2/4).
 
-- 🔭 Atualmente estou trabalhando na empresa FlexDev Sistemas;
-- 🌱 Atualmente estou aprendendo Docker, React, Vue.js, Next.js;
+- 🔭 Atualmente estou trabalhando na empresa Vexur;
+- 🌱 Atualmente estou aprendendo Vue, Neo4j, Express, ExpoGo (programação multiplataforma: web & mobile);
 - 📫 Como chegar até mim: luiscadari@icloud.com;
 
 <!--
