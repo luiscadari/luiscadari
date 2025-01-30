@@ -1,6 +1,8 @@
-### Olá 👋
+# 👋 Olá, eu sou Luís Cadari!
+Sou desenvolvedor web Full-Stack, cursando atualmente Bacharelado em Engenharia de Software. Trabalho construindo aplicações robustas e escaláveis! 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiscadari/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/lu%C3%ADs-cadari-27893626a/)
 
 ## Tecnologias que eu estou usando no momento!
 
