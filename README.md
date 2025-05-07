@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Luís Cadari!
-Sou desenvolvedor web Full-Stack, cursando atualmente Bacharelado em Engenharia de Software. Trabalho construindo aplicações robustas e escaláveis! 
+Sou **desenvolvedor _Web Full-Stack_**, cursando atualmente **Bacharelado em Engenharia de _Software_**. Trabalho construindo aplicações robustas e escaláveis! 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiscadari/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/lu%C3%ADs-cadari-27893626a/)
@@ -19,11 +19,11 @@ Sou desenvolvedor web Full-Stack, cursando atualmente Bacharelado em Engenharia 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscadari&layout=compact)](https://github.com/luiscadari/github-readme-stats)
  
- ### Programador Full-Stack Pleno e Técnico em Informática pelo IFPR Campus Jacarezinho, cursando Bacharelado de Engenharia de Software na Unicesumar (2/4).
+ ### Programador _Full-Stack_ Pleno e Técnico em Informática pelo IFPR Campus Jacarezinho, cursando Bacharelado de Engenharia de _Software_ na Unicesumar (2/4).
 
-- 🔭 Atualmente estou trabalhando na empresa Vexur;
-- 🌱 Atualmente estou aprendendo Vue, Neo4j, Express, ExpoGo (programação multiplataforma: web & mobile);
-- 📫 Como chegar até mim: luiscadari@icloud.com;
+- 🔭 Atualmente estou trabalhando na empresa **Vexur**;
+- 🌱 Atualmente estou aprendendo _Vue, Neo4j, Express, ExpoGo_ (programação multiplataforma: **web & mobile**);
+- 📫 Como chegar até mim: _luiscadari@icloud.com_;
 
 <!--
 **luiscadari/luiscadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
